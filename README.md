@@ -1,4 +1,4 @@
-# POS-Taggin
+# POS-Tagging
 Implementation of Average Perceptron for POS tagging and NER. (NLP)
 
 
